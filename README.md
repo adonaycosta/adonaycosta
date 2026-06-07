@@ -2,17 +2,13 @@
 
 ### Sobre mim
 
-Desenvolvedor Node.js focado em aprender e aplicar arquitetura em camadas e testes automatizados.
+Desenvolvedor Backend com foco no ecossistema Node.js, especializado na construção de APIs e aplicações escaláveis, seguras e de fácil manutenção. Possuo experiência com JavaScript, TypeScript, bancos de dados relacionais, Prisma ORM, Docker, autenticação e autorização com JWT, testes automatizados e boas práticas de desenvolvimento.
+
+Tenho dedicado meus estudos a arquitetura de software, Clean Code, SOLID e Domain-Driven Design (DDD), buscando criar soluções robustas e alinhadas aos princípios da engenharia de software. Atualmente, estou aprofundando meus conhecimentos em NestJS.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" />
 </p>
-
-<div>
-  <a href="https://www.linkedin.com/in/adonay-costa/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
